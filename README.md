@@ -25,4 +25,4 @@ And I love doing this
 2. Feb
 3. March
 
-![image](./images/image1.png)
+![image](practice101.png)
